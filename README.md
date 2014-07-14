@@ -42,3 +42,5 @@ The templates define your gridengine queues, there is a long, medium and short q
 
 ###newhost.erb 
 As above it is a definition of your gridengine queue, but for the standalone newhost.pp
+
+You'll also want to check all the files for DOMAIN and replace it with your domain.
